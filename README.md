@@ -13,7 +13,7 @@
 - Always ready to learn new technologies.
 
 ### 🛠️ Technical Skills
-- **Programming:**Java, python
+- **Programming:** Java, Python
 - **Web Technologies:** HTML, CSS, JavaScript
 - **Database:** SQL
 - **Tools:** VS Code, GitHub
